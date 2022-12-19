@@ -32,9 +32,9 @@ Lo que hacemos ahora es establecer la relaión de nuestras tablas.
 ![image](https://user-images.githubusercontent.com/114684379/208461267-db2c5921-a45a-411c-ad16-820b7eca2461.png)
 ![image](https://user-images.githubusercontent.com/114684379/208461330-d03858fe-a1ee-4180-9389-aba1f381c41d.png)
 
-##
+## Quinto paso
 
-![image](https://user-images.githubusercontent.com/114684379/208402588-f2617056-0840-471f-aa88-51361b0f9dec.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/114684379/208406480-4cd66e2c-60d3-4214-973f-52600b24ec53.png)
